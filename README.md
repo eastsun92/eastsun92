@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+#<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
  
    <br/>
    <br/>
@@ -47,9 +47,9 @@
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woni1010011&layout=compact)](https://github.com/Woni1010011/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastsea92&layout=compact)](https://github.com/eastsea92/github-readme-stats)
 
  
   <br/>
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=woni1010011)](https://solved.ac/woni1010011)
+#[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=woni1010011)](https://solved.ac/woni1010011)
