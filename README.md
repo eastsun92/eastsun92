@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><br>
 
@@ -25,7 +25,7 @@
 
 <img src="https://img.shields.io/badge/Django-6DB33F?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/spring-092E20?style=for-the-badge&logo=spring&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/spring-092E20?style=for-the-badge&logo=spring&logoColor=white">  -->
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br>
 
@@ -47,7 +47,8 @@
  
   <br/>
   
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastsun92&layout=compact)](https://github.com/eastsun92) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastsun92&layout=compact)](https://github.com/eastsun92/github-readme-stats)
+
 
  
   <br/>
